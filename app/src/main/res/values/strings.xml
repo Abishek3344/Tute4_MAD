@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tutorial_4_Data handling</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="name">name</string>
+    <string name="select_all">SELECT ALL</string>
+    <string name="delete_button">DELETE</string>
+    <string name="signIn_button">SIGN IN</string>
+    <string name="add_button">ADD</string>
+    <string name="update_button">UPDATE</string>
+</resources>
